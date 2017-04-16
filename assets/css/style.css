@@ -1,0 +1,28 @@
+*{margin:0px auto;}
+body{font-family: Calibri, candara, sans-serif;}
+h1{text-align:center; line-height:2em;}
+
+
+
+
+table{
+    border:1px solid #ccc;
+}
+table th{
+    background:#3366FF;
+    text-transform:uppercase;
+    color:#fff;
+    padding:10px;
+}
+table td{
+    padding:5px;
+}
+
+table td, table th{
+    border-left:1px solid #ccc;
+}
+
+table td:first-child, table th:first-child{
+    border-left:none;
+}
+
